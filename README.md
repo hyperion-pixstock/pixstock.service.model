@@ -1,1 +1,1 @@
-"# pixstock.service.model" 
+# Pixstock.Service.Model
